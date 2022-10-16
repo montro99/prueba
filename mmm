@@ -1,0 +1,16 @@
+
+function Suma(num1, num2, num3)
+{
+var suma;
+suma = num1 + num2 + num3;
+document.write("Suma = ", suma);
+}
+
+
+var n1, n2, n3;
+ 
+n1 = 3; 
+n2 = 5; 
+n3 = 2;
+ 
+Suma(n1,n2,n3);
